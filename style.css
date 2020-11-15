@@ -1,0 +1,9 @@
+table {
+  font: 17px;
+}
+table,
+th,
+td {
+  border: solid 1px #DDD;
+  padding: 2px 3px;
+}
